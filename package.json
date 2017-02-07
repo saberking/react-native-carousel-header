@@ -1,0 +1,19 @@
+{
+  "name": "react-native-carousel-header",
+  "version": "1.0.0",
+  "description": "Carousel header for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saberking/react-native-carousel-header.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saberking/react-native-carousel-header/issues"
+  },
+  "homepage": "https://github.com/saberking/react-native-carousel-header#readme"
+}
